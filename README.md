@@ -37,11 +37,6 @@ A simple full-stack clothing e-commerce website built using **React (frontend)**
 - Stripe API
 - Dotenv
 
----
 
-## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the repository
-```bash
-git clone <your-repo-link>
-cd <project-folder>
+
